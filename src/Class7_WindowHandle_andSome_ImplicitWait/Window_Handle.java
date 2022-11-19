@@ -1,10 +1,7 @@
-package Class7_WindowHandle;
+package Class7_WindowHandle_andSome_ImplicitWait;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
-
-import java.util.Set;
-import java.util.TreeSet;
 
 public class Window_Handle {
     public static void main(String[] args) {

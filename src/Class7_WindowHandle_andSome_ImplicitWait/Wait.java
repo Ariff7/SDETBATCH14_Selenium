@@ -1,4 +1,4 @@
-package Class7_WindowHandle;
+package Class7_WindowHandle_andSome_ImplicitWait;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
