@@ -49,7 +49,7 @@ public class TablePagination_Aka_LoopingTruNextPages {
 
           String idText = columnOfIds.get(i).getText();
 
-          if (idText.equalsIgnoreCase("40907A")) {
+          if (idText.equalsIgnoreCase("41641A")) {
               //check the checkbox that ssoiciated with that particular row
 
               WebElement checkbox = driver.findElement(By.xpath("//table[@id='resultTable']/tbody/tr[" + (i + 1) + "]/td[1]"));
